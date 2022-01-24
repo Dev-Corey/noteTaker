@@ -29,7 +29,8 @@ https://user-images.githubusercontent.com/87203701/150878433-957a9edc-db0e-4287-
 
 This project is a simple note taking application that allows the user to create and delete notes that save to a database as objects to be retrieved in the future.
 
-![screenCaptureOfNoteTakerLanding](/public/assets/img/noteTakerCAPTURE01)
+![screenCaptureOfNoteTakerLanding](/public/assets/img/noteTakerCAPTURE01.jpg)
+![screenCaptureOfNoteTakerMain](/public/assets/img/noteTakerCAPTURE02.jpg)
 
 
 ## [Installation](#table-of-contents)
