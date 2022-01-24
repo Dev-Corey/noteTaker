@@ -35,7 +35,7 @@ This project is a simple note taking application that allows the user to create 
 
 ## [Installation](#table-of-contents)
 
-Simple clone this repository into your IDE and use `npm start` in the command line. Then navigate to `http:localhost:3001/` where you can use the application.
+Simple clone this repository into your IDE and use `npm start` in the command line. Then navigate to `localhost:3001/` where you can use the application.
 
 
 ## [License](#table-of-contents)
