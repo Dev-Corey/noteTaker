@@ -7,9 +7,9 @@
 
 ## Table-of-Contents
 
-* [Description](#description)
-
 * [DEMO](#demo)
+
+* [Description](#description)
 
 * [Installation](#installation)
 
@@ -19,12 +19,17 @@
 
 * [Questions](#questions)
 
+
+## [DEMO](#table-of-contents)
+
+https://user-images.githubusercontent.com/87203701/150878433-957a9edc-db0e-4287-805a-e69321120e25.mp4
+
+
 ## [Description](#table-of-contents)
 
 This project is a simple note taking application that allows the user to create and delete notes that save to a database as objects to be retrieved in the future.
 
-## [DEMO](#table-of-contents)
-
+![screenCaptureOfNoteTakerLanding](/public/assets/img/noteTakerCAPTURE01)
 
 
 ## [Installation](#table-of-contents)
