@@ -1,12 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text",
-        "id":100
-    },
-    {
-        "title":"Homework",
-        "text":"Stop waiting until the last minute!",
-        "id":102
-    }
-]
+[{"title":"Test Title (click me)","text":"Looks Like This Worked *evil laughter mmmmuuuuaahhh hahahahaha*","id":100},{"title":"Another Test (click here to)","text":"Still working! Thanks for checking though!!!","id":101},{"title":"Last Test (just click it)","text":"Thank You For Your Time! Have a great rest of your day and I hope to see you as a peer one day and not my anonymous grader!!! - Corey Boensch","id":102}]
